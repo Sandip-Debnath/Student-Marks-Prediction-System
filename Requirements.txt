@@ -1,0 +1,12 @@
+Pyhton Version : 3.7.3
+
+Libraries to Install:
+
+Numpy
+pandas
+Matplotlib
+Sklearn
+flask
+joblib
+
+/*This is a mini project of Machine Learning named Student Marks Prediction*/
